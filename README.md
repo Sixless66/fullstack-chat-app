@@ -1,7 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 ### Setup .env file
 
 ```js
@@ -19,7 +17,7 @@ NODE_ENV=development
 ### Build the app
 
 ```shell
-npm run build
+npm run build 
 ```
 
 ### Start the app
