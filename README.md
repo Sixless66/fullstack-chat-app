@@ -4,14 +4,14 @@
 
 ```js
 MONGODB_URI=...
-PORT=5001
+PORT=
 JWT_SECRET=...
 
 CLOUDINARY_CLOUD_NAME=...
 CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 
-NODE_ENV=development
+NODE_ENV='deployment
 ```
 
 ### Build the app
